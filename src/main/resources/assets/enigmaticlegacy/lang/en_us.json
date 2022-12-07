@@ -1082,7 +1082,7 @@
 	
 	
 	"book.enigmaticlegacy.category.armor.name": "Armor",
-	"book.enigmaticlegacy.category.armor.desc": "Despite all its beaty, this world has many dangers lurking in its darkest corners. Many can easily obliterate unaware traveller, if one doesn't have proper means of protection.<br2/>Many legendary blacksmiths dedicated their lives to attemps of creating perfect armor. You will, no doubt, surpass them all.",
+	"book.enigmaticlegacy.category.armor.desc": "Despite all its beaty, this world has many dangers lurking in its darkest corners. Many can easily obliterate an unaware traveller, if one doesn't have proper means of protection.<br2/>Many legendary blacksmiths dedicated their lives to attemps of creating perfect armor. You will, no doubt, surpass them all.",
 	
 	
 	"book.enigmaticlegacy.category.decorations.name": "Decorations",
@@ -1117,12 +1117,12 @@
 	"book.enigmaticlegacy.entry.cursed_scroll.name": "Thousand Curses",
 	"book.enigmaticlegacy.entry.cursed_scroll.page.1": "At times curses can take form similar to that of enchantments, with a only couple differences. Unlike normal enchantments, once they are bound to item, there's seemingly no way to get rid of them while keeping the item itself. Hopefully, regular enchanting techniques which you use yourself cannot accidentally produce such curses - but you may come",
 	"book.enigmaticlegacy.entry.cursed_scroll.page.2": "across items bearing them when exploring ancient ruins and dungeons.<br2/>Their effects vary, but none are quite beneficial - any cursed enchantment presents significant drawback to using",
-	"book.enigmaticlegacy.entry.cursed_scroll.page.3": "the item that bears it. Under normal circumstances, they would be just an annoyance for you to avoid. However, now that you bear Ring of the Seven Curses, there are ways you can manipulate them and even benefit from them, unnaccessible to others.<br2/>This scroll, being infused with concentrated wickedness of the Twisted Heart, presents one such possibility. For every curse that every item of your equipment bears, it boosts",
-	"book.enigmaticlegacy.entry.cursed_scroll.page.4": "your attack damage, mining speed and regenerational powers of any kind. The effect is sure neglegible with only one or two curses, but if you are not afraid to take a little more, it can add up to enormous power.<br2/>The equipment that affects this scroll includes armor, items in both hands, and any wearables alike charms or rings, including even this same scroll itself when it is equipped.",
+	"book.enigmaticlegacy.entry.cursed_scroll.page.3": "the item that bears it. Under normal circumstances, they would be just an annoyance for you to avoid. However, now that you bear Ring of the Seven Curses, there are ways you can manipulate them and even benefit from them, inaccessible to others.<br2/>This scroll, being infused with concentrated wickedness of the Twisted Heart, presents one such possibility. For every curse that every item of your equipment bears, it boosts",
+	"book.enigmaticlegacy.entry.cursed_scroll.page.4": "your attack damage, mining speed and regenerational powers of any kind. The effect is negligible with only one or two curses, but if you are not afraid to take a little more, it can add up to enormous power.<br2/>The equipment that affects this scroll includes armor, items in both hands, and any wearables alike charms or rings, including even this same scroll itself when it is equipped.",
 	
 	
 	"book.enigmaticlegacy.entry.iron_ring.name": "Iron Ring",
-	"book.enigmaticlegacy.entry.iron_ring.page.1": "Quite simple in its design, this thing could've been forged even by the most casual blacksmith, not to mention a demigod alike you.<br2/>This ring is only useful as all it takes to create is some mundane iron. It might not save you from being beheaded, but can protect one of your fingers from being cut off someday... Perhaps.",
+	"book.enigmaticlegacy.entry.iron_ring.page.1": "Quite simple in its design, this thing could've been forged even by the most casual blacksmith, not to mention a demigod alike you.<br2/>The only reason this ring is useful is because it can be made with only some common iron. It might not save you from being beheaded, but can protect one of your fingers from being cut off someday... Perhaps.",
 	
 	
 	"book.enigmaticlegacy.entry.ceaseless_enchantment.name": "Ceaseless",
@@ -1143,7 +1143,7 @@
 	"book.enigmaticlegacy.entry.curse_of_nemesis.heading.1": "The Curse",
 	"book.enigmaticlegacy.entry.curse_of_nemesis.page.1": "One of the less known cursed enchantments, this one is more curious and obscure than others.<br2/>It can only be encountered on melee weapons, alike swords or axes. Should you directly attack with the weapon that bears Curses of Nemesis, you will receive around 25 percents of the damage you dealt back upon yourself.<br2/>",
 	"book.enigmaticlegacy.entry.curse_of_nemesis.page.2": "However, no matter how devastating your blows will be, this curse can never kill you.<br2/>It will eventually leave you with just a sliver of health remaining, but something else will have to take this sliver for you to finally die.",
-	
+	// Left off here with grammer changes, Might have missed some stuff above.
 	
 	"book.enigmaticlegacy.entry.wrath_enchantment.name": "Wrath",
 	"book.enigmaticlegacy.entry.wrath_enchantment.heading.1": "The Enchantment",
